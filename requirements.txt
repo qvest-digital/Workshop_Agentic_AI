@@ -1,0 +1,12 @@
+jupyter
+pandas
+pydantic
+mcp[cli]
+requests
+transformers
+huggingface_hub
+torch
+accelerate
+sentence-transformers
+faiss-cpu
+nltk

@@ -1,0 +1,1886 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2026-01-15T15:56:54Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 10681332730,
+      "lat": 41.3135527,
+      "lon": 2.0864185,
+      "tags": {
+        "leisure": "park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11277463484,
+      "lat": 41.3036619,
+      "lon": 2.0797477,
+      "tags": {
+        "leisure": "park",
+        "name": "Terraza",
+        "smoking": "yes",
+        "survey:date": "2023-10-20"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4743361,
+      "center": {
+        "lat": 41.3783929,
+        "lon": 2.1744283
+      },
+      "nodes": [
+        30227024,
+        30227023,
+        30227022,
+        7383431934
+      ],
+      "tags": {
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "motor_vehicle": "yes",
+        "name": "Carrer de Lancaster",
+        "name:ca": "Carrer de Lancaster",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4743376,
+      "center": {
+        "lat": 41.3810644,
+        "lon": 2.1733109
+      },
+      "nodes": [
+        546558625,
+        544807068
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "La Rambla",
+        "name:be": "Рамбла",
+        "name:ca": "La Rambla",
+        "name:es": "La Rambla",
+        "smoothness": "good",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4743388,
+      "center": {
+        "lat": 41.3821707,
+        "lon": 2.1648907
+      },
+      "nodes": [
+        30227151,
+        30227152,
+        30227153
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer del Lleó",
+        "name:ca": "Carrer del Lleó",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4743445,
+      "center": {
+        "lat": 41.3832747,
+        "lon": 2.169433
+      },
+      "nodes": [
+        30227401,
+        8515568591,
+        30227392
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Passatge d'Elisabets",
+        "name:ca": "Passatge d'Elisabets",
+        "smoothness": "excellent",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4744845,
+      "center": {
+        "lat": 41.3699141,
+        "lon": 2.1222926
+      },
+      "nodes": [
+        3232474084,
+        3232474086,
+        11757092712,
+        12158076642,
+        11757092698
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Carrer del Progrés",
+        "name:ca": "Carrer del Progrés",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4744989,
+      "center": {
+        "lat": 41.3816513,
+        "lon": 2.1633423
+      },
+      "nodes": [
+        1374636407,
+        12880667078,
+        8173071612,
+        8148936884,
+        13172257781,
+        8173071610,
+        12880683116,
+        12750006829
+      ],
+      "tags": {
+        "cycleway:both": "no",
+        "emergency": "yes",
+        "highway": "pedestrian",
+        "maxspeed": "10",
+        "motor_vehicle": "destination",
+        "name": "Ronda de Sant Antoni",
+        "name:ca": "Ronda de Sant Antoni",
+        "name:etymology:wikidata": "Q2749514",
+        "note": "prioritat vianants",
+        "oneway": "yes",
+        "oneway:emergency": "no",
+        "source:maxspeed": "ES:urban",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4745022,
+      "center": {
+        "lat": 41.3785132,
+        "lon": 2.1647234
+      },
+      "nodes": [
+        30238230,
+        2620979542,
+        30238236,
+        8246188579,
+        30227451
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer dels Salvador",
+        "name:ca": "Carrer dels Salvador",
+        "oneway:motor_vehicle": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4745023,
+      "center": {
+        "lat": 41.3788043,
+        "lon": 2.1653006
+      },
+      "nodes": [
+        30238249,
+        30238248,
+        8246188586,
+        3215577566
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer d'en Santcliment",
+        "name:ca": "Carrer d'en Santcliment",
+        "oneway:motor_vehicle": "yes",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4745024,
+      "center": {
+        "lat": 41.3774649,
+        "lon": 2.1673922
+      },
+      "nodes": [
+        30238275,
+        30238276,
+        30238277,
+        1400544016,
+        30238278,
+        3215577565,
+        5918183032,
+        3865315728,
+        192046649,
+        192064484,
+        30238280
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer de les Carretes",
+        "name:ca": "Carrer de les Carretes",
+        "oneway:motor_vehicle": "yes",
+        "surface": "sett"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4745032,
+      "center": {
+        "lat": 41.3849195,
+        "lon": 2.1811842
+      },
+      "nodes": [
+        30238420,
+        9291535792,
+        2240993664,
+        30238421,
+        1784624502,
+        1784478212,
+        30238423,
+        30238424
+      ],
+      "tags": {
+        "cycleway:both": "no",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "maxspeed": "10",
+        "motor_vehicle": "destination",
+        "name": "Carrer de Montcada",
+        "name:ca": "Carrer de Montcada",
+        "oneway": "no",
+        "surface": "paving_stones",
+        "wikidata": "Q8255466",
+        "wikipedia": "ca:Carrer de Montcada"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4745581,
+      "center": {
+        "lat": 41.3826591,
+        "lon": 2.1757831
+      },
+      "nodes": [
+        30243954,
+        30243955,
+        6055403344,
+        6055403379,
+        6055403380,
+        30243956,
+        6055334810,
+        30243957
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Carrer de Salomó ben Adret",
+        "name:ca": "Carrer de Salomó ben Adret",
+        "name:etymology:wikidata": "Q982170",
+        "old_name": "Carrer de Sant Domènec del Call",
+        "surface": "sett"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4745582,
+      "center": {
+        "lat": 41.3843366,
+        "lon": 2.1809906
+      },
+      "nodes": [
+        30243962,
+        30243964,
+        2530596823,
+        30243966,
+        30243967,
+        30243968,
+        240970122,
+        30243970
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer dels Banys Vells",
+        "name:ca": "Carrer dels Banys Vells",
+        "tourism": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4745603,
+      "center": {
+        "lat": 41.3863994,
+        "lon": 2.1761071
+      },
+      "nodes": [
+        30244368,
+        30244367,
+        30244366,
+        8203998885,
+        7251841067,
+        11178788338,
+        12966750080,
+        30244365
+      ],
+      "tags": {
+        "access:conditional": "delivery @ (Mo-Sa 08:00-11:00,15:00-17:00)",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "maxspeed": "10",
+        "name": "Carrer de Sant Pere Més Baix",
+        "name:ca": "Carrer de Sant Pere Més Baix",
+        "oneway": "yes",
+        "postal_code": "08003",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4746722,
+      "center": {
+        "lat": 41.36249,
+        "lon": 2.1105275
+      },
+      "nodes": [
+        30251407,
+        11635033311,
+        30251408
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Passatge Miner",
+        "name:ca": "Passatge Miner",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4746875,
+      "center": {
+        "lat": 41.3827816,
+        "lon": 2.1730484
+      },
+      "nodes": [
+        30252200,
+        30252201,
+        30252202,
+        30252203,
+        30252204,
+        30252205,
+        30252206,
+        30252208,
+        30252209
+      ],
+      "tags": {
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "name": "Carrer de Petritxol",
+        "name:ca": "Carrer de Petritxol",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4746876,
+      "center": {
+        "lat": 41.3884124,
+        "lon": 2.1778287
+      },
+      "nodes": [
+        30252211,
+        7473591504,
+        3889101466,
+        30244384
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "maxspeed": "10",
+        "motor_vehicle": "destination",
+        "name": "Carrer d'en Mònec",
+        "name:ca": "Carrer d'en Mònec",
+        "oneway": "yes",
+        "postal_code": "08003"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4746879,
+      "center": {
+        "lat": 41.3879189,
+        "lon": 2.1767718
+      },
+      "nodes": [
+        30252250,
+        30252251
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer del Bou de Sant Pere",
+        "name:ca": "Carrer del Bou de Sant Pere",
+        "postal_code": "08003",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4746882,
+      "center": {
+        "lat": 41.3872967,
+        "lon": 2.1764729
+      },
+      "nodes": [
+        30252304,
+        533664794,
+        30244373
+      ],
+      "tags": {
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Carrer de la Mare de Déu del Pilar",
+        "name:ca": "Carrer de la Mare de Déu del Pilar",
+        "postal_code": "08003",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4746883,
+      "center": {
+        "lat": 41.3869877,
+        "lon": 2.176023
+      },
+      "nodes": [
+        30252323,
+        3889101374,
+        211626442,
+        3889101312,
+        30244368
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Carrer de Verdaguer i Callís",
+        "name:ca": "Carrer de Verdaguer i Callís",
+        "name:etymology:wikidata": "Q379290",
+        "postal_code": "08003",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4746884,
+      "center": {
+        "lat": 41.3863188,
+        "lon": 2.1741482
+      },
+      "nodes": [
+        30884255,
+        9273300921,
+        30252398
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer d'Amargós",
+        "name:ca": "Carrer d'Amargós",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4746887,
+      "center": {
+        "lat": 41.3889084,
+        "lon": 2.1782262
+      },
+      "nodes": [
+        30647459,
+        7575306725,
+        30252561
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer de la Victòria",
+        "name:ca": "Carrer de la Victòria",
+        "postal_code": "08003"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4746932,
+      "center": {
+        "lat": 41.4071572,
+        "lon": 2.1864096
+      },
+      "nodes": [
+        6417904613,
+        12405631175,
+        7497582535,
+        6417904612,
+        12405631174,
+        6417904611,
+        12405631176,
+        7497582533,
+        6417904610,
+        12798017723,
+        12798017726,
+        12798017724,
+        12798017725,
+        6417904609,
+        6417904608,
+        7497582534,
+        12405631173,
+        6417904613
+      ],
+      "tags": {
+        "area": "yes",
+        "highway": "pedestrian",
+        "name": "Carrer de la Corunya",
+        "name:ca": "Carrer de la Corunya"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4747019,
+      "center": {
+        "lat": 41.3825532,
+        "lon": 2.1727185
+      },
+      "nodes": [
+        30254293,
+        30254295,
+        30254296,
+        30254297,
+        30254298,
+        30254299,
+        30254301,
+        30254303,
+        30254304
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer d'en Roca",
+        "name:ca": "Carrer d'en Roca"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4747020,
+      "center": {
+        "lat": 41.384327,
+        "lon": 2.1732398
+      },
+      "nodes": [
+        30254307,
+        30254308,
+        457764263,
+        541746809
+      ],
+      "tags": {
+        "bicycle": "yes",
+        "dog": "leashed",
+        "emergency": "designated",
+        "goods": "delivery",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "maxspeed": "7",
+        "name": "Carrer del Duc",
+        "name:ca": "Carrer del Duc",
+        "surface": "paving_stones",
+        "wheelchair": "designated"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4747021,
+      "center": {
+        "lat": 41.385152,
+        "lon": 2.1720756
+      },
+      "nodes": [
+        30254311,
+        3887645041,
+        30254316
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Carrer de Bertrellans",
+        "name:ca": "Carrer de Bertrellans",
+        "surface": "paving_stones",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4747057,
+      "center": {
+        "lat": 41.4025198,
+        "lon": 2.1544072
+      },
+      "nodes": [
+        30254433,
+        1377225881,
+        1377225895
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Carrer de Jaén",
+        "name:ca": "Carrer de Jaén",
+        "name:etymology:wikidata": "Q15681",
+        "smoothness": "excellent",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4747103,
+      "center": {
+        "lat": 41.4244363,
+        "lon": 2.1542188
+      },
+      "nodes": [
+        30254598,
+        8399644014,
+        11875896269,
+        11875896169,
+        8378959838,
+        30254599
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Passatge de Calafell",
+        "name:ca": "Passatge de Calafell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4747178,
+      "center": {
+        "lat": 41.4300652,
+        "lon": 2.2199956
+      },
+      "nodes": [
+        30255078,
+        13350813901,
+        13379103613,
+        30255077,
+        13379103612,
+        13350815101,
+        30255076,
+        13379103611,
+        1887138294,
+        12726003520,
+        30255075
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "motor_vehicle": "no",
+        "name": "Avinguda de Catalunya",
+        "name:ca": "Avinguda de Catalunya",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4748002,
+      "center": {
+        "lat": 41.3711191,
+        "lon": 2.0969375
+      },
+      "nodes": [
+        12566653590,
+        30265219
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Passeig de Pau Ruiz Picasso",
+        "name:ca": "Passeig de Pau Ruiz Picasso",
+        "name:etymology:wikidata": "Q5593",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4750209,
+      "center": {
+        "lat": 41.3863296,
+        "lon": 2.1323044
+      },
+      "nodes": [
+        30294476,
+        8440924923,
+        30294477
+      ],
+      "tags": {
+        "cycleway:both": "no",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "motor_vehicle": "no",
+        "name": "Carrer de Cabestany",
+        "name:ca": "Carrer de Cabestany",
+        "psv": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4750425,
+      "center": {
+        "lat": 41.4448314,
+        "lon": 2.1779366
+      },
+      "nodes": [
+        8303706634,
+        299366714,
+        8440529787,
+        1606312083,
+        8440529784,
+        11205083043,
+        8302792139,
+        299366715
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "motor_vehicle": "no",
+        "name": "Carrer de Joaquim Valls",
+        "name:ca": "Carrer de Joaquim Valls"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4750546,
+      "center": {
+        "lat": 41.4009181,
+        "lon": 2.203708
+      },
+      "nodes": [
+        243343816,
+        8276457402,
+        4883330720,
+        1044543165,
+        3048078144,
+        1044543184,
+        1044510640,
+        7037173067,
+        8243643343,
+        30297465,
+        8243643342,
+        4300397775,
+        2739852168,
+        1940844916,
+        7037173023,
+        8275699980
+      ],
+      "tags": {
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "motor_vehicle": "delivery",
+        "name": "Carrer de Marià Aguiló",
+        "name:ca": "Carrer de Marià Aguiló",
+        "name:etymology:wikidata": "Q2423524",
+        "old_name": "Sant Pere del Taulat",
+        "oneway:motor_vehicle": "yes",
+        "segregated": "no",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4750551,
+      "center": {
+        "lat": 41.3991391,
+        "lon": 2.2062335
+      },
+      "nodes": [
+        1043905517,
+        8220533673,
+        12405649497,
+        30297483,
+        3048076440,
+        8993893304,
+        30297477,
+        8993893302,
+        1207618835,
+        8381037064,
+        1306211573
+      ],
+      "tags": {
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "motor_vehicle": "no",
+        "name": "Carrer de Fernando Poo",
+        "name:ca": "Carrer de Fernando Poo",
+        "note": "Excepte veïns i serveis",
+        "segregated": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4750561,
+      "center": {
+        "lat": 41.3855735,
+        "lon": 2.1819767
+      },
+      "nodes": [
+        30297712,
+        9388109830,
+        30243996,
+        9291535791,
+        30297713,
+        1437452101,
+        1995661941,
+        30297717,
+        30297718,
+        30297719,
+        240974969,
+        30297720,
+        4212111683
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "motor_vehicle": "destination",
+        "name": "Carrer dels Flassaders",
+        "name:ca": "Carrer dels Flassaders",
+        "parking:both": "no",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4750584,
+      "center": {
+        "lat": 41.3816863,
+        "lon": 2.1745342
+      },
+      "nodes": [
+        30297995,
+        12590119691,
+        30252196
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Carrer de n'Alsina",
+        "name:ca": "Carrer de n'Alsina",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4750617,
+      "center": {
+        "lat": 41.3781553,
+        "lon": 2.1673314
+      },
+      "nodes": [
+        7042385451,
+        8423785491,
+        30298175,
+        30298176,
+        30238277
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Carrer de l'Aurora",
+        "name:ca": "Carrer de l'Aurora",
+        "oneway:motor_vehicle": "yes",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4750619,
+      "center": {
+        "lat": 41.3786349,
+        "lon": 2.1666663
+      },
+      "nodes": [
+        30298220,
+        8423785471,
+        30238276
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer de Vistalegre",
+        "name:ca": "Carrer de Vistalegre",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4750624,
+      "center": {
+        "lat": 41.37975,
+        "lon": 2.1643032
+      },
+      "nodes": [
+        30227230,
+        8246216837,
+        30298375,
+        30298377,
+        8246188581,
+        30227452
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer de la Cendra",
+        "name:ca": "Carrer de la Cendra",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4750732,
+      "center": {
+        "lat": 41.3657319,
+        "lon": 2.1268039
+      },
+      "nodes": [
+        257810315,
+        6689846221,
+        30298982,
+        6658564721,
+        6724725492,
+        6658564722,
+        6658564716,
+        6658564714,
+        60199109,
+        10004682563,
+        30686348
+      ],
+      "tags": {
+        "bicycle": "yes",
+        "covered": "no",
+        "foot": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "maxspeed": "10",
+        "maxweight": "3.5",
+        "name": "Carrer d'Anselm Clavé",
+        "name:ca": "Carrer d'Anselm Clavé",
+        "name:etymology:wikidata": "Q2335557",
+        "oneway": "yes",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4751625,
+      "center": {
+        "lat": 41.3589371,
+        "lon": 2.0979295
+      },
+      "nodes": [
+        6034052900,
+        6034052901,
+        30308326,
+        11805054469,
+        11411038075,
+        30308191
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Carrer de Sant Roc",
+        "name:ca": "Carrer de Sant Roc",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4751868,
+      "center": {
+        "lat": 41.3880067,
+        "lon": 2.1988055
+      },
+      "nodes": [
+        8258295544,
+        3599928048,
+        9192869080,
+        9864584023,
+        9252981949,
+        6620484014,
+        8196838067,
+        8667916439
+      ],
+      "tags": {
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "name": "Passeig Marítim del Port Olímpic",
+        "name:ca": "Passeig Marítim del Port Olímpic",
+        "segregated": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4751953,
+      "center": {
+        "lat": 41.4017583,
+        "lon": 2.1890776
+      },
+      "nodes": [
+        8417581295,
+        8122255920,
+        30312975
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "maxspeed": "10",
+        "motor_vehicle": "destination",
+        "name": "Carrer d'Àvila",
+        "name:ca": "Carrer d'Àvila",
+        "name:etymology:wikidata": "Q15688",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4754986,
+      "center": {
+        "lat": 41.3807532,
+        "lon": 2.1925913
+      },
+      "nodes": [
+        1404133894,
+        8985585777,
+        1404133895,
+        12398109964,
+        7159121672,
+        8253197788
+      ],
+      "tags": {
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "highway:-2019": "living_street",
+        "lit": "yes",
+        "name": "Carrer d'Andrea Dòria",
+        "name:ca": "Carrer d'Andrea Dòria",
+        "name:etymology:wikidata": "Q156521",
+        "smoothness": "good",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4755012,
+      "center": {
+        "lat": 41.3812071,
+        "lon": 2.1886916
+      },
+      "nodes": [
+        30343266,
+        8984401708,
+        4228930421,
+        4228930420,
+        8531066391,
+        30343287
+      ],
+      "tags": {
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "horse": "no",
+        "lit": "yes",
+        "motor_vehicle": "no",
+        "name": "Carrer de la Sal",
+        "name:ca": "Carrer de la Sal",
+        "segregated": "no",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4755017,
+      "center": {
+        "lat": 41.381285,
+        "lon": 2.1890348
+      },
+      "nodes": [
+        30343268,
+        8984401712,
+        10294691609,
+        8531066385,
+        8531066389,
+        30343480
+      ],
+      "tags": {
+        "access": "yes",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "pedestrian",
+        "horse": "no",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "Carrer dels Safareigs",
+        "name:ca": "Carrer dels Safareigs",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4755020,
+      "center": {
+        "lat": 41.3815331,
+        "lon": 2.1900987
+      },
+      "nodes": [
+        30343271,
+        8984401733,
+        30343292
+      ],
+      "tags": {
+        "access": "yes",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "pedestrian",
+        "horse": "no",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "Carrer del Marquès de la Mina",
+        "name:ca": "Carrer del Marquès de la Mina",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4755024,
+      "center": {
+        "lat": 41.3817842,
+        "lon": 2.1912233
+      },
+      "nodes": [
+        30343274,
+        8984401742,
+        3771472572,
+        9249495228,
+        30343295
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Passatge de Joan Mirambell i Bertran",
+        "name:ca": "Passatge de Joan Mirambell i Bertran",
+        "name:etymology:wikidata": "Q20876120"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4755057,
+      "center": {
+        "lat": 41.3779949,
+        "lon": 2.1901472
+      },
+      "nodes": [
+        21638868,
+        8253197813,
+        11715919469,
+        6984972120
+      ],
+      "tags": {
+        "access": "yes",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "pedestrian",
+        "horse": "no",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "Carrer de Meer",
+        "name:ca": "Carrer de Meer",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4776348,
+      "center": {
+        "lat": 41.4094238,
+        "lon": 2.1844768
+      },
+      "nodes": [
+        10245502709,
+        8238440859,
+        30555639,
+        6900863282,
+        8235955461
+      ],
+      "tags": {
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "motor_vehicle": "destination",
+        "name": "Carrer de Rogent",
+        "name:ca": "Carrer de Rogent",
+        "oneway:motor_vehicle": "yes",
+        "sidewalk": "both",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4776420,
+      "center": {
+        "lat": 41.4104375,
+        "lon": 2.1858353
+      },
+      "nodes": [
+        30243400,
+        10725363054,
+        8235955456,
+        30556067,
+        9543587718,
+        8238440866,
+        7687887202,
+        30243341
+      ],
+      "tags": {
+        "access": "designated",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "motor_vehicle": "destination",
+        "name": "Carrer de Sibelius",
+        "name:ca": "Carrer de Sibelius",
+        "residents": "designated",
+        "services": "designated",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4779657,
+      "center": {
+        "lat": 41.3709452,
+        "lon": 2.1139094
+      },
+      "nodes": [
+        30583253,
+        12178027023,
+        12178027009,
+        7368392236
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Parc dels Ocellets",
+        "name:ca": "Parc dels Ocellets",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4779729,
+      "center": {
+        "lat": 41.3689952,
+        "lon": 2.100211
+      },
+      "nodes": [
+        30584403,
+        12170857763,
+        7560827231,
+        12170857750,
+        12363400931,
+        12170133327,
+        30583566
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "motor_vehicle": "no",
+        "name": "Carrer d'Andorra",
+        "name:ca": "Carrer d'Andorra",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4782252,
+      "center": {
+        "lat": 41.4330022,
+        "lon": 2.1618901
+      },
+      "nodes": [
+        8443952926,
+        9945949058,
+        6223865356,
+        6223865355
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer del Vent",
+        "name:ca": "Carrer del Vent"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785158,
+      "center": {
+        "lat": 41.3805246,
+        "lon": 2.1792409
+      },
+      "nodes": [
+        30646177,
+        13269280222,
+        2437901376,
+        2437901366,
+        2559036002
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer de Milans",
+        "name:ca": "Carrer de Milans"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785203,
+      "center": {
+        "lat": 41.3806269,
+        "lon": 2.1800058
+      },
+      "nodes": [
+        30252166,
+        209012108
+      ],
+      "tags": {
+        "created_by": "Potlatch 0.6a",
+        "highway": "pedestrian",
+        "name": "Carrer del Tonell",
+        "name:ca": "Carrer del Tonell",
+        "smoothness": "good",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785211,
+      "center": {
+        "lat": 41.3829832,
+        "lon": 2.1776875
+      },
+      "nodes": [
+        10223722999,
+        4144193761,
+        9753843954
+      ],
+      "tags": {
+        "foot": "designated",
+        "highway": "pedestrian",
+        "horse": "permissive",
+        "lit": "yes",
+        "motor_vehicle": "no",
+        "name": "Carrer d'Arlet",
+        "name:ca": "Carrer d'Arlet",
+        "oneway:motor_vehicle": "no",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785240,
+      "center": {
+        "lat": 41.3857561,
+        "lon": 2.1739458
+      },
+      "nodes": [
+        3497460956,
+        533664781,
+        30646416,
+        30646417,
+        30252398,
+        30646348
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Carrer de Montsió",
+        "name:ca": "Carrer de Montsió",
+        "oneway:motor_vehicle": "yes",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785280,
+      "center": {
+        "lat": 41.3810069,
+        "lon": 2.1740788
+      },
+      "nodes": [
+        30252194,
+        30646606,
+        30646609,
+        30646610,
+        30646611,
+        3439181952
+      ],
+      "tags": {
+        "alt_name": "Carrer de n'Aroles",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Carrer d'Aroles",
+        "name:ca": "Carrer d'Aroles",
+        "old_name:es": "Calle Arolas",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785281,
+      "center": {
+        "lat": 41.3811562,
+        "lon": 2.1744594
+      },
+      "nodes": [
+        30252195,
+        30646656,
+        30227483
+      ],
+      "tags": {
+        "created_by": "Potlatch 0.6",
+        "highway": "pedestrian",
+        "name": "Carrer d'en Quintana",
+        "name:ca": "Carrer d'en Quintana",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785287,
+      "center": {
+        "lat": 41.380759,
+        "lon": 2.1752407
+      },
+      "nodes": [
+        30646657,
+        30297998
+      ],
+      "tags": {
+        "created_by": "Potlatch 0.6",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Carrer de les Heures",
+        "name:ca": "Carrer de les Heures",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785290,
+      "center": {
+        "lat": 41.3799641,
+        "lon": 2.1758643
+      },
+      "nodes": [
+        1400747756,
+        1400747755
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Carrer del Vidre",
+        "name:ca": "Carrer del Vidre",
+        "surface": "paving_stones",
+        "tunnel": "building_passage"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785300,
+      "center": {
+        "lat": 41.3836394,
+        "lon": 2.1747175
+      },
+      "nodes": [
+        2264384339,
+        30647198,
+        30647202,
+        30647203,
+        30647204,
+        30647206,
+        30647208
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer de la Palla",
+        "name:ca": "Carrer de la Palla",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785319,
+      "center": {
+        "lat": 41.3825427,
+        "lon": 2.1816531
+      },
+      "nodes": [
+        30647253,
+        30647254,
+        240952463,
+        240951418,
+        30647256,
+        7223570815,
+        12961476023,
+        12966786801,
+        30647257
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer dels Agullers",
+        "name:ca": "Carrer dels Agullers"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785321,
+      "center": {
+        "lat": 41.3839496,
+        "lon": 2.1808601
+      },
+      "nodes": [
+        30243967,
+        30647270,
+        30647271,
+        30647273,
+        30647274
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer d'en Rosic",
+        "name:ca": "Carrer d'en Rosic",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785323,
+      "center": {
+        "lat": 41.3840781,
+        "lon": 2.1806652
+      },
+      "nodes": [
+        30243966,
+        30647309,
+        30647310,
+        30647311,
+        30647312,
+        3439181981
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer del Brosolí",
+        "name:ca": "Carrer del Brosolí",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785325,
+      "center": {
+        "lat": 41.3853742,
+        "lon": 2.1798645
+      },
+      "nodes": [
+        30647327,
+        30647333,
+        30647336,
+        3439182015
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer d'en Boquer",
+        "name:ca": "Carrer d'en Boquer"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785334,
+      "center": {
+        "lat": 41.3840821,
+        "lon": 2.1809158
+      },
+      "nodes": [
+        30647342,
+        30647343,
+        30647344,
+        30647345,
+        30647309,
+        30647270,
+        30647347,
+        30647348,
+        30647350
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer dels Mirallers",
+        "name:ca": "Carrer dels Mirallers",
+        "oneway:motor_vehicle": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785336,
+      "center": {
+        "lat": 41.3856016,
+        "lon": 2.1793129
+      },
+      "nodes": [
+        30647398,
+        216281405
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer de la Flor de Lliri",
+        "name:ca": "Carrer de la Flor de Lliri",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785337,
+      "center": {
+        "lat": 41.3853502,
+        "lon": 2.1790395
+      },
+      "nodes": [
+        3441107996,
+        30647399,
+        2710653031,
+        2710653027
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer de les Semoleres",
+        "name:ca": "Carrer de les Semoleres",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785338,
+      "center": {
+        "lat": 41.3857544,
+        "lon": 2.17784
+      },
+      "nodes": [
+        216355606,
+        30647424,
+        437132968
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer dels Avellà",
+        "name:ca": "Carrer dels Avellà",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785346,
+      "center": {
+        "lat": 41.3856732,
+        "lon": 2.1782202
+      },
+      "nodes": [
+        30647424,
+        30647425
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer del Tragí",
+        "name:ca": "Carrer del Tragí"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785348,
+      "center": {
+        "lat": 41.3865192,
+        "lon": 2.180755
+      },
+      "nodes": [
+        30647427,
+        30647429,
+        2267959254,
+        30647432,
+        30647434
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer de la Blanqueria",
+        "name:ca": "Carrer de la Blanqueria",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785349,
+      "center": {
+        "lat": 41.3863989,
+        "lon": 2.179406
+      },
+      "nodes": [
+        30647440,
+        30647439,
+        30647438,
+        30647437,
+        30647435
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Carrer d'en Tarròs",
+        "name:ca": "Carrer d'en Tarròs",
+        "oneway:motor_vehicle": "yes",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785350,
+      "center": {
+        "lat": 41.3861879,
+        "lon": 2.1804308
+      },
+      "nodes": [
+        30647441,
+        30647442,
+        30647443,
+        30647444,
+        30647445
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "name": "Carrer de la Neu de Sant Cugat",
+        "name:ca": "Carrer de la Neu de Sant Cugat",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785397,
+      "center": {
+        "lat": 41.3878506,
+        "lon": 2.1752801
+      },
+      "nodes": [
+        30647460,
+        8497303354,
+        7473591511,
+        4642876601,
+        30647461
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "motor_vehicle": "destination",
+        "name": "Carrer d'Amadeu Vives",
+        "name:ca": "Carrer d'Amadeu Vives",
+        "name:etymology:wikidata": "Q2648593",
+        "oneway": "yes",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785413,
+      "center": {
+        "lat": 41.3877523,
+        "lon": 2.1776457
+      },
+      "nodes": [
+        30244380,
+        9272325393,
+        30647590
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Carrer de les Arenes de Sant Pere",
+        "name:ca": "Carrer de les Arenes de Sant Pere",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785418,
+      "center": {
+        "lat": 41.3844414,
+        "lon": 2.1696915
+      },
+      "nodes": [
+        30647763,
+        2879016204,
+        30647764,
+        30647766,
+        1376659575,
+        1376659566
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Carrer de les Sitges",
+        "name:ca": "Carrer de les Sitges"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4785419,
+      "center": {
+        "lat": 41.3875728,
+        "lon": 2.1794582
+      },
+      "nodes": [
+        240992763,
+        5923825640,
+        5923825647,
+        5923825648,
+        5923825643,
+        243749814,
+        5923825646,
+        5923825645,
+        5923825644,
+        5923825642,
+        5923825641,
+        437132969,
+        5923825637,
+        5923825638,
+        5923825639,
+        1694406899,
+        30244385
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Carrer de Jaume Giralt",
+        "name:ca": "Carrer de Jaume Giralt",
+        "oneway:motor_vehicle": "yes",
+        "surface": "paving_stones"
+      }
+    }
+  ],
+  "_cached_at": 1768492688.3851893
+}

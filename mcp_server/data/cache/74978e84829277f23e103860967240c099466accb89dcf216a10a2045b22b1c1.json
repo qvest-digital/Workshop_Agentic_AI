@@ -1,0 +1,80 @@
+{
+  "latitude": 41.441124,
+  "longitude": 2.2014387,
+  "generationtime_ms": 7.649660110473633,
+  "utc_offset_seconds": 3600,
+  "timezone": "Europe/Madrid",
+  "timezone_abbreviation": "GMT+1",
+  "elevation": 30.0,
+  "daily_units": {
+    "time": "iso8601",
+    "temperature_2m_max": "°C",
+    "temperature_2m_min": "°C",
+    "precipitation_sum": "mm",
+    "windspeed_10m_max": "km/h",
+    "weathercode": "wmo code"
+  },
+  "daily": {
+    "time": [
+      "2021-06-10",
+      "2021-06-11",
+      "2021-06-12",
+      "2021-06-13",
+      "2021-06-14",
+      "2021-06-15",
+      "2021-06-16",
+      "2021-06-17"
+    ],
+    "temperature_2m_max": [
+      28.8,
+      28.8,
+      28.9,
+      28.7,
+      31.8,
+      31.6,
+      29.2,
+      26.3
+    ],
+    "temperature_2m_min": [
+      18.1,
+      18.8,
+      20.3,
+      21.3,
+      21.0,
+      20.7,
+      21.2,
+      22.7
+    ],
+    "precipitation_sum": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.9
+    ],
+    "windspeed_10m_max": [
+      20.8,
+      16.1,
+      17.4,
+      16.5,
+      18.3,
+      15.1,
+      17.1,
+      27.7
+    ],
+    "weathercode": [
+      3,
+      3,
+      2,
+      2,
+      3,
+      3,
+      3,
+      53
+    ]
+  },
+  "_cached_at": 1768494461.3279407
+}
