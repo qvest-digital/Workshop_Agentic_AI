@@ -1,1 +1,5 @@
 /backup/
+/old/
+/RAG_Data/FormelDrone.txt
+/data/cache/*.json
+/.env
