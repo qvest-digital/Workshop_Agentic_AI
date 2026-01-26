@@ -3,3 +3,5 @@
 /RAG_Data/FormelDrone.txt
 /data/cache/*.json
 /.env
+/models/
+/mcp_server/data/cache/*.json
