@@ -36,7 +36,7 @@ mcp = FastMCP(name="weather-planner", stateless_http=False)
 logger = logging.getLogger("weather-planner-mcp")
 logging.basicConfig(stream=sys.stderr, level=logging.INFO)
 
-@mcp.tool()
+#@mcp.tool()
 #def ping() -> str:
 #    """Health check: returns 'pong'"""
 #    return "pong"

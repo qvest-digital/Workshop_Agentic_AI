@@ -5,3 +5,5 @@
 /.env
 /models/
 /mcp_server/data/cache/*.json
+/*.zip
+/*.pdf
