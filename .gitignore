@@ -4,6 +4,7 @@
 /data/cache/*.json
 /.env
 /models/
-/mcp_server/data/cache/*.json
+/mcp_server_travel/data/cache/*.json
+/mcp_server_math/data/cache/*.json
 /*.zip
 /*.pdf

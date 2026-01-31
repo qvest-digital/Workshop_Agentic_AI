@@ -1,5 +1,5 @@
-from mcp_server.mcp_tools.mcp.server import get_parks_nearby
-from mcp_server.mcp_tools.services import get_activity_spots
+from mcp_server_travel.mcp_tools_travel.mcp.server import get_parks_nearby
+from mcp_server_travel.mcp_tools_travel.services import get_activity_spots
 
 if __name__ == "__main__":
     # {'activity': 'jogging', 'lat': 41.8933203, 'lon': 12.4829321, 'radius_km': 5}

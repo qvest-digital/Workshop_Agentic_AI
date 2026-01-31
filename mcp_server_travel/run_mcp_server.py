@@ -5,7 +5,7 @@ Usage:
 
 Or via MCP host config (e.g., Claude Desktop) pointing to this script.
 """
-from mcp_tools.mcp.server import main
+from mcp_tools_travel.mcp.server import main
 
 if __name__ == "__main__":
     main()

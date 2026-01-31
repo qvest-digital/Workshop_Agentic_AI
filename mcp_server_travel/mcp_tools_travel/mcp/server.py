@@ -1,4 +1,4 @@
-"""MCP server (official python-sdk) exposing mcp_tools tools.
+"""MCP server (official python-sdk) exposing mcp_tools_travel tools.
 
 This uses FastMCP from the official MCP Python SDK:
 - Tools are ordinary Python functions decorated with @mcp.tool().

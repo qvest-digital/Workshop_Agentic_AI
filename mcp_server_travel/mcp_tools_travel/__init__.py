@@ -1,4 +1,4 @@
-"""mcp_tools package
+"""mcp_tools_travel package
 
 Purpose:
 - Provide clean, testable services for a weather-based travel & activity planner.
